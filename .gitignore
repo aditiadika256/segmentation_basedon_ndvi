@@ -1,0 +1,5 @@
+# Ignore node_modules directory
+*.pt
+
+# Ignore all log files
+*.log
